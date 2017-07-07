@@ -1,6 +1,7 @@
 ---
 date: '2017-07-06T23:24:50.103Z'
 layout: page
+categories: update
 permalink: /post/
 ---
 This file is in the **Posts** folder in your office suite, but in the **_posts** directory in Github. Look at the file conversion rules in your Cloudstitch project to see how we did that.
